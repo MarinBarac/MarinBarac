@@ -1,4 +1,4 @@
-## Hi, I'm Marin Barac 👋
+## Hi, I'm Marin Barać 👋
 
 - 🖥️ I've been coding in TypeScript primarily for 5 years
 - 🏗️ I'm working as full-stack developer at [solbound](https://solbound.dev/)
